@@ -1,5 +1,5 @@
 # Invoice-Plane-XSS
-Stored XSS in invoiceplane demo website v1.51
+Stored XSS in invoiceplane demo website v1.5.10
 
 Stored XSS in invoice plane application
 
