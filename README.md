@@ -1,4 +1,4 @@
-# Invoice-Plane-XSS
+# Invoice-Plane-XSS -- CVE-2018-12255
 Stored XSS in invoiceplane demo website v1.5.10
 
 Stored XSS in invoice plane application
